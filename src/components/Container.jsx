@@ -4,7 +4,7 @@ import Textarea from "./Textarea";
 import {
   FACEBOOK_MAX_CHARACTERS,
   INSTAGRAM_MAX_CHARACTERS,
-} from "../constants";
+} from "../lib/constants";
 
 function Container() {
   const [text, setText] = useState("");
