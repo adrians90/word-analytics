@@ -2,9 +2,18 @@
 
 https://thewordcounter.com/
 
+**Word Analytics: Master Your Text (React & JavaScript)**
+
 **Built with: React, React useState, JavaScript, CSS**
 
-The application gives some statistics about the text the user inputs. E.g: word&character count and how many characters they would have left in an Instagram or Facebook post.
+Word Analytics is your one-stop shop for text analysis! This **React** and **JavaScript** powered app helps you understand your writing better.
+
+Simply paste in your text and get instant insights on:
+
+Word Count: Know exactly how many words you've written.
+Character Count: Stay within character limits for platforms like Instagram and Facebook.
+Post Remaining: See how many characters you have left for your next social media masterpiece.
+Craft concise and impactful messages with Word Analytics!
 
 **Live link:**
 
